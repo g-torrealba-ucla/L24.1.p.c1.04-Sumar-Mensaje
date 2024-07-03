@@ -2,6 +2,7 @@
 mostrarMensaje = function (mensaje) {
   alert(mensaje);
 };
+// ok ok ok ok
 //Llamado de la función mostrarMensaje
 mostrarMensaje("HOLA MUNDO ... ¡MI PRIMER PROGRAMA!");
 
